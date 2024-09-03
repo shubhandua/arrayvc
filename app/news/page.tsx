@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Button } from "@/components/ui/button"
+//// import { Button } from "@/components/ui/button"
 import { CircuitBoard, Github, Linkedin, Twitter, ChevronLeft, ChevronRight, Calendar, ExternalLink } from "lucide-react"
 import Link from "next/link" // //
 import Image from "next/image"
